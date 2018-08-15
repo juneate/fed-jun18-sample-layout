@@ -6,11 +6,11 @@ Complete the following layout (designed by Bitmaker's Jesse Mykolyn) using the t
 
 Here's what the site should look like once complete:
 
-![Small Screen Layout](http://bitmakerhq.s3.amazonaws.com/lessons/front-end-development/resources/sm.png | height=300)
+<img src="http://bitmakerhq.s3.amazonaws.com/lessons/front-end-development/resources/sm.png" height="300">
 
-![Medium Screen Layout](http://bitmakerhq.s3.amazonaws.com/lessons/front-end-development/resources/md.png | height=300)
+<img src="http://bitmakerhq.s3.amazonaws.com/lessons/front-end-development/resources/md.png" height="300">
 
-![Large Screen Layout](http://bitmakerhq.s3.amazonaws.com/lessons/front-end-development/resources/lg.png | height=300)
+<img src="http://bitmakerhq.s3.amazonaws.com/lessons/front-end-development/resources/lg.png" height="300">
 
 
 ## Taking it further
